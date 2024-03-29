@@ -1,8 +1,8 @@
 # Financial Calculator (Python)
 This Python program acts as a simple financial calculator, that offers the user two options to choose from:
 
-* Investment Calculator: Calculates the interest that will be earned on the investment and the future value of the investment based on the interest rate, type of interest and the investment period. 
-* Home Loan Repayment Calculator: Calculates the monthly payment required in order for the user to repay the loan over the specified period, given the interest rate and the specific term after the user  wants to repay the loan. 
+* **Investment Calculator**: Calculates the interest that will be earned on the investment and the future value of the investment based on the interest rate, type of interest and the investment period. 
+* **Home Loan Repayment Calculator**: Calculates the monthly payment required in order for the user to repay the loan over the specified period, given the interest rate and the specific term after the user  wants to repay the loan. 
 
 ## Usage
 1. Download or clone the repository.
